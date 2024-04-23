@@ -1,4 +1,4 @@
-# example-streamlet
+# example-streamlit
 
 from youtube Live - Intro to Streamlit 101 with Data Professor
 
